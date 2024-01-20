@@ -1,0 +1,32 @@
+.book-detail-container {
+    display: flex;    
+}
+.book-detail-second-col {
+    display: flex;
+    flex-direction: column;
+    margin-left: 32px;
+    gap: 8px;
+}
+.book-detail-img{
+    text-align: center;
+}
+.book-detail-img img {
+    box-shadow: 10px 10px 5px gray;
+    max-width: 200px;
+}
+
+.bbook-detail-category {
+    color:gray;
+    text-decoration: underline;
+    font-size: 12px;
+}
+
+.book-detail-title {
+    font-size: 14px;
+    font-weight: bold
+}
+
+.book-detail-author {
+    font-size: 12px;
+    color:gray;  
+}

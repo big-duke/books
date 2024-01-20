@@ -1,0 +1,18 @@
+.books-list-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.books-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start;
+    gap: 24px;
+    width: 700px;
+
+}
+.error {
+    color:red;
+}
+    

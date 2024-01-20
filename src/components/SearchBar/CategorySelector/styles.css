@@ -1,0 +1,15 @@
+.category-container {
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   gap: 8px;
+}
+
+.category-container label {
+    font-size: 18px;
+    color: white;
+}
+
+.category-container select {
+    font-size: 18px; 
+}

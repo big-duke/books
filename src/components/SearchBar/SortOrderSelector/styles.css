@@ -1,0 +1,15 @@
+.sort-container {
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   gap: 8px;
+}
+
+.sort-container label {
+    font-size: 18px;
+    color: white;
+}
+
+.sort-container select {
+    font-size: 18px;
+}
